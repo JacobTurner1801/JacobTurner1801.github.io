@@ -8,4 +8,4 @@ date: 2021-09-23
 
 Here is an image <br><br>
 
-![alt text]("/img/earth.jpg")
+<img src="/img/earth.jpg" alt="alt text">
