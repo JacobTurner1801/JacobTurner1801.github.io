@@ -18,4 +18,22 @@ _Here is some italic text_
 
 </details>
 
-<!---Here is an HTML comment in markdown (notice the 3 dashes) -->
+<!---Here is an HTML comment in markdown -->
+
+
+## Further Details
+
+- _layouts folder
+  - includes 2 files
+    - Default - default layout for the site
+    - posts - layout for posts
+- _posts
+  - includes all of the posts (as markdown files)
+- css
+  - inclues the css for the project
+- blog
+  - includes the main blog page
+- img
+  - images used in the project
+- about
+  - includes an about page
