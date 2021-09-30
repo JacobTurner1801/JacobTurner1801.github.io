@@ -1,6 +1,6 @@
 ---
-layout: posts
-title: "Second post"
+layout: post
+title: Second post
 date: 2021-09-23
 ---
 
